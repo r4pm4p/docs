@@ -2,7 +2,7 @@
 
 ## backend
 
-- PostgresSql
+- Mongodb
 - Node.js
 - Fastfy
 
